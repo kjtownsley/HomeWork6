@@ -3,19 +3,33 @@
 }
 
 .page-header {
-	background-color: rgb(6, 241, 37);
+	background-color: rgb(0, 255, 13);
 	height: 120px;
 	color: white;
+	font-family: 'Press Start 2P', cursive;
 }
 
 
 #cartoon-form {
-	color: rgb(0, 0, 0);
 	font-size: 20px;
+	font-family: 'Share Tech Mono', monospace;
 }
 
 button {
 	margin: 1px;
-	background: rgb(255, 0, 0);	
+	background: rgb(195, 0, 255);	
 	color: white;
+	font-family: 'Share Tech Mono', monospace;
+}
+
+.panel-body {
+	background: rgb(0, 60, 255);
+}
+
+#cartoons {
+	background: rgb(82, 82, 82);
+	width: 73%;
+	margin-left: 15px;
+	font-family: 'Share Tech Mono', monospace;
+	color: yellow;
 }
